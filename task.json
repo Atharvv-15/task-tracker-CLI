@@ -3,23 +3,37 @@
     {
       "id": "b6af1ceb",
       "description": "New task",
-      "status": "todo",
+      "status": "IN-PROGRESS",
       "createdAt": "2024-11-11 10:16:26",
-      "updatedAt": "2024-11-11 10:16:26"
-    },
-    {
-      "id": "840c21c1",
-      "description": "New task2",
-      "status": "todo",
-      "createdAt": "2024-11-11 10:19:03",
-      "updatedAt": "2024-11-11 10:19:03"
+      "updatedAt": "2024-11-11 11:20:14"
     },
     {
       "id": "5bb4a110",
       "description": "New task3",
-      "status": "todo",
+      "status": "TODO",
       "createdAt": "2024-11-11 10:19:06",
       "updatedAt": "2024-11-11 10:19:06"
+    },
+    {
+      "id": "fa50d455",
+      "description": "Get Groceries",
+      "status": "DONE",
+      "createdAt": "2024-11-11 11:23:07",
+      "updatedAt": "2024-11-11 12:51:03"
+    },
+    {
+      "id": "805870fa",
+      "description": "Submit HW",
+      "status": "DONE",
+      "createdAt": "2024-11-11 12:22:28",
+      "updatedAt": "2024-11-11 12:29:19"
+    },
+    {
+      "id": "3a86c381",
+      "description": "Get haircut",
+      "status": "TODO",
+      "createdAt": "2024-11-11 12:29:05",
+      "updatedAt": "2024-11-11 12:29:05"
     }
   ]
 }
