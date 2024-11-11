@@ -23,13 +23,13 @@ python task-cli.py list
 
 ### List specific status
 bash
-python task-cli.py list --status TODO
-python task-cli.py list --status DONE
+python task-cli.py list TODO
+python task-cli.py list DONE
 
 
 ### Mark task as done
 bash
-python task-cli.py done <task-id>
+python task-cli.py mark-done <task-id>
 
 
 ### Delete a task
@@ -40,6 +40,7 @@ python task-cli.py delete <task-id>
 ## Task Statuses
 - TODO: Default status for new tasks
 - DONE: Completed tasks
+- IN-PROGRESS: In Progress tasks
 
 ## Examples
 
@@ -48,13 +49,13 @@ Add a new task
 python task-cli.py add "Buy groceries"
 
 List all TODO tasks
-python task-cli.py list --status TODO
+python task-cli.py list TODO
 
 Mark task as done
-python task-cli.py done 1
+python task-cli.py done <id>
 
 Delete task
-python task-cli.py delete 1
+python task-cli.py delete <id>
 
 
 ## File Storage
