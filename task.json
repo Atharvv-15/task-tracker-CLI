@@ -1,0 +1,25 @@
+{
+  "tasks": [
+    {
+      "id": "b6af1ceb",
+      "description": "New task",
+      "status": "todo",
+      "createdAt": "2024-11-11 10:16:26",
+      "updatedAt": "2024-11-11 10:16:26"
+    },
+    {
+      "id": "840c21c1",
+      "description": "New task2",
+      "status": "todo",
+      "createdAt": "2024-11-11 10:19:03",
+      "updatedAt": "2024-11-11 10:19:03"
+    },
+    {
+      "id": "5bb4a110",
+      "description": "New task3",
+      "status": "todo",
+      "createdAt": "2024-11-11 10:19:06",
+      "updatedAt": "2024-11-11 10:19:06"
+    }
+  ]
+}
