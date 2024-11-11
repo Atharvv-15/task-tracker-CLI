@@ -1,5 +1,7 @@
 # Task Tracker CLI
 
+[Project URL](https://github.com/Atharvv-15/task-tracker-CLI)
+
 A simple command-line interface for managing your tasks.
 
 ## Installation
