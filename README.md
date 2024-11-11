@@ -1,6 +1,6 @@
 # Task Tracker CLI
 
-[Project URL](https://github.com/Atharvv-15/task-tracker-CLI)
+[Project URL](https://roadmap.sh/projects/task-tracker)
 
 A simple command-line interface for managing your tasks.
 
